@@ -57,7 +57,8 @@ plt.plot(t,s)
 
 ## Tabular Column
 
-<img width="1418" height="925" alt="image" src="https://github.com/user-attachments/assets/ee4eb46b-75d7-45f7-b7be-8aebc10c0e8f" />
+![WhatsApp Image 2025-11-28 at 5 50 04 PM](https://github.com/user-attachments/assets/016ab25b-f6b6-4750-943c-9a4be0f01aa8)
+
 
 ## Result
 
